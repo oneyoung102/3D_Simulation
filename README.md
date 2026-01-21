@@ -1,2 +1,5 @@
 # 3D_simulation
-this repository includes a file that I created to show 3D in 2D.
+
+> 본 파일은 `<windows.h>` 라이브러리를 사용하여 window 운영체제에서만 작동합니다.
+
+> `w`, `s`를 통해 조작하여 움직임에 따른 사물의 크기, 위치 변화를 확인하세요.
